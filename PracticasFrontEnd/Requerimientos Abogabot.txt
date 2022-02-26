@@ -1,0 +1,29 @@
+Abogabot:
+
+Despacho de abogados
+
+Requerimientos: 
+
+-Automatizar las demandas de sus clientes 
+	-Pagina Web, llenando un formulario.
+-Formulario se manda al proceso de pago para finalizar la transaccion. 
+
+-El cliente podra crear una cuenta para iniciar sesion. 
+-El cliente podra ver el seguimiento de la demanda. (actualizaciones del proceso)
+
+-El admin recibe la notificacion de una nueva demanda.
+-El sistema debe crear un documento legal en word utilizando el formulario 
+que envia el usuario.
+
+-El admin recibe el pago. El pago debe ser visible en un dashboard para ver
+la cantidad de ingresos recibidos. 
+
+-El admin actualiza el proceso de la demanda y puede agregar comentarios en 
+cada paso del proceso. 
+
+-El usuario debe recibir correos de notificacion para saber el avance del
+proceso de demanda. 
+
+-La pagina debe ser responsiva para poder verse en dispositivos moviles. 
+
+-Preferentemente debe estar en color azul marino y blanco. 
